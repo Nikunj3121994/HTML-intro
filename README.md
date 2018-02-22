@@ -1,2 +1,2 @@
 # HTML-intro
-this is first program of HTML
+this is introduction program to HTML
